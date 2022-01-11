@@ -1,2 +1,2 @@
 # csvDataDemo
-CSV data processing 
+CSV data processing, with MVVM architecture. 
